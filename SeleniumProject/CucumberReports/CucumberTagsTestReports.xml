@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testng-results failed="0" passed="2" skipped="0" total="2">
+<suite duration-ms="52527" name="io.cucumber.core.plugin.TestNGFormatter">
+<test duration-ms="52527" name="io.cucumber.core.plugin.TestNGFormatter">
+<class name="User edit the General Information Page under Organization module of Admin">
+<test-method duration-ms="26534" finished-at="2020-07-28T06:27:11.855Z" name="Validating the edited fields on General Information Page" started-at="2020-07-28T06:26:45.317Z" status="PASS"/>
+<test-method duration-ms="25862" finished-at="2020-07-28T06:27:37.729Z" name="Validating the edited fields on General Information Page .." started-at="2020-07-28T06:27:11.863Z" status="PASS"/>
+</class>
+</test>
+</suite>
+</testng-results>
